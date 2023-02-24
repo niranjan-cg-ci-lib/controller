@@ -1,0 +1,4 @@
+variables:
+- team: niranjan-cg-ci-lib
+- admin-user: iamnirranjan-admin
+- manager-user: iamnirranjan
